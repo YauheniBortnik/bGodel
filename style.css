@@ -1,41 +1,40 @@
-#orig_text_block{
+body {
+    background: url(vintage-concrete.png);
+}
+
+#orig_text_block {
     width: 1000px;
     height: auto;
     margin: auto;
     padding-top: 10px;
 }
 
-#form_block{
+#form_block {
     width: 1000px;
     margin: auto;
     padding-top: 50px;
 }
 
-#form_block p{
+#form_block p {
     position: absolute;
     margin-top: 0;
 }
 
-.input{
+.input {
     margin-left: 70px;
 }
 
-#main_form{
-
-}
-
-
-#res_text_block{
+#res_text_block {
     width: 1000px;
     height: auto;
     margin: auto;
     padding-top: 30px;
 }
 
-#change_btn{
+#change_btn {
     width: 225px;
 }
 
-span{
+span {
     color: red;
 }
