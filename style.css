@@ -1,5 +1,6 @@
 body {
     background: url(vintage-concrete.png);
+    display: block;
 }
 
 #orig_text_block {
