@@ -1,5 +1,4 @@
 <?php
-$file = fopen('template.tpl', 'r');
 $file = file('template.tpl');
 if (isset($_POST['change_btn'])) {
     require_once ('form.php');

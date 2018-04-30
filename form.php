@@ -5,7 +5,6 @@
 <body>
 <div id="orig_text_block">
     <?php
-    $file = fopen('template.tpl', 'r');
     $file = file('template.tpl');
     $text = "";
     foreach ($file as $value) {
